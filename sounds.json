@@ -2,19 +2,19 @@
   "farm": [
     {
       "title": "Tavuk",
-      "song": "kumes_sesi.ogg",
+      "song": "tavuk.ogg",
 "url": "https://github.com/sahinbayonur/file/raw/main/Ortam%20Sesleri/Farm/tavuk.ogg",
       "image": "play_ic.png"
     },
     {
       "title": "Horoz",
-      "song": "kumes_sesi.ogg",
+      "song": "horoz.ogg",
 "url": "https://github.com/sahinbayonur/file/raw/main/Ortam%20Sesleri/Farm/horoz.ogg",
       "image": "play_ic.png"
     },
     {
       "title": "CivCiv",
-      "song": "kumes_sesi.ogg",
+      "song": "civciv.ogg",
 "url": "https://github.com/sahinbayonur/file/raw/main/Ortam%20Sesleri/Farm/civciv.ogg",
 "image": "play_ic.png"
 },
